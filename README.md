@@ -1,3 +1,6 @@
+## NOTA
+Debe tener en cuenta que al correr el codigo del servicio el puerto del localhost puede variar, en mi caso la url era http://localhost:63778/cotizacion/, para cambiar la misma debe ubicar el archivo que se encuentra en la carpeta src/app/servicios/consulta/consulta-monedas.service.ts y modificar las urls con el nuevo puerto.
+
 # Cotizaciones
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
